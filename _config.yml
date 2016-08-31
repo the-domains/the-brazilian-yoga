@@ -1,19 +1,4 @@
-name: The brazilian yoga
-favicon: null
-layout_spectrum: 0.2099799383431673
 typography_spectrum: 0.9953123244922608
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5963006548117846
   saturation: 0.34546698117628694
   rhythmicContrast: 0.7895468645729125
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2099799383431673
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: The brazilian yoga
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: THE BRAZILIAN YOGA
 purpose: []
